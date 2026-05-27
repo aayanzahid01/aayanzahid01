@@ -12,7 +12,7 @@ building = "automation tools that replace repetitive work"
 
 I automate things. Email campaigns, invoice generation, WhatsApp bots : if a business does it manually every day, I build something that does it for them. Fresh out of A-levels, self-taught, and already shipping real tools.
 
-> currently → building AI-powered automation tools for small businesses in Pakistan & globally
+> currently → building AI-powered automation tools for small businesses globally
 
 ---
 
